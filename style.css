@@ -1,0 +1,65 @@
+/*title*/
+#title{
+    background-image: url(images/t5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+.title-image{
+    width: 90%;
+    margin: 10px 20px;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+ }
+ .nav-item{
+   padding: 0 18px;
+ }
+ .nav-link{
+   font-family: "Montserrat-light";
+   font-size: 1.2rem;
+ }
+ 
+ .navbar-brand{
+   font-family: "Ubuntu";
+   font-size: 3rem;
+ }
+.row{
+    margin: 100px 100px;
+}
+
+.container-fluid{
+    padding: 3% 10% 10%;
+  }
+.header{
+    font-size: 3rem;
+} 
+
+/*pricing*/
+#pricing{
+    text-align: center;
+    padding: 50px 100px;
+}
+.column-card{
+    padding: 3% 2%;
+}
+.card{
+    border-color: black;
+}
+.btn:hover{
+    color: grey;
+}
+
+/*footer*/
+#footer{
+    background-image: url(images/t2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff; 
+    text-align: center;
+    padding: 7% 15%;
+}
+.footer-img{
+    margin: 20px 10px;
+}
